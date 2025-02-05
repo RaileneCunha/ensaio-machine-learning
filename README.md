@@ -1,3 +1,6 @@
+![Ensaio Machine Learning](
+img/machine_learning.webp)
+
 # Ensaio de Machine Learning
 ## Descrição
 A empresa Data Money acredita que a expertise no treinamento e ajuste
